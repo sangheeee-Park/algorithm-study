@@ -99,7 +99,7 @@ git pull upstream main
 
 ```bash
 git add .
-git commit -m "week01: BOJ 1920 수찾기"
+git commit -m "(#이슈번호)week01: BOJ 1920 수찾기"
 git push origin main
 ```
 
